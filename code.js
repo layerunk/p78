@@ -1,4 +1,5 @@
-var updatedimages = ["mercury.jpeg" , "suntransparent.jpeg"]
+var updatedimages = ["download.jpeg" , "sun-fireball-solar-flare-sunlight-87611.jpeg"]
+
 var updatednamess = ["father" , "son"]
 
 function next() {

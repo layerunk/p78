@@ -1,6 +1,6 @@
-var updatedimages = ["download.jpeg" , "sun-fireball-solar-flare-sunlight-87611.jpeg"]
+var updatedimages = ["https://ibb.co/K5tNrq6" , "https://ibb.co/LgnNGZ5"]
 
-var updatednamess = ["father" , "son"]
+var updatednamess = ["Dream Mother" , "Annoying Cousins"]
 
 function next() {
  document.getElementById("im").innerHTML = updatedimages;
